@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Zip files
+models.zip
+
