@@ -1,0 +1,4 @@
+fastapi==0.xx.x
+uvicorn==0.xx.x
+pymongo==x.x.x
+python-dotenv==x.x.x
